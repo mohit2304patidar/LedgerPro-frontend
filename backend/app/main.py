@@ -61,6 +61,7 @@ app.add_middleware(
         "http://localhost:3000",
         "http://127.0.0.1:3000",
         "https://ledger-pro-frontend-58jo.vercel.app",
+        "https://ledger-pro-frontend-58jo-gsorw0lb7.vercel.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],
